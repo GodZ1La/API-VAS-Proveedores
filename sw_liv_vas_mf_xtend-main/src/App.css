@@ -1,0 +1,48 @@
+body {
+  background-color: #f3f4f6;
+}
+
+::-webkit-scrollbar {
+  width: 4px;
+  height: 4px;
+}
+
+::-webkit-scrollbar-corner {
+  background-color: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #555;
+  border-radius: 20px;
+  border: 1.9px solid white;
+}
+
+::-webkit-scrollbar-track {
+  background-color: #cacaca;
+  border: 1.9px solid white;
+}
+
+.swiper {
+  width: 'auto';
+  height: '30vh';
+}
+
+.swiper-slide {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 18px;
+  font-size: 22px;
+  font-weight: bold;
+  color: #fff;
+}
+
+.swiper-slide {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 18px;
+  font-size: 22px;
+  font-weight: bold;
+  color: #fff;
+}
